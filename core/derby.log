@@ -1,0 +1,18 @@
+----------------------------------------------------------------
+Fri Apr 13 11:32:25 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0162-bd0f-b1b2-000009061160 
+on database directory /Users/zenmen/IdeaProjects/source-code/spark-2.2.1/core/target/JavaJdbcRDDSuiteDb with class loader sun.misc.Launcher$AppClassLoader@28d93b30 
+Loaded from file:/Users/zenmen/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=/Users/zenmen/IdeaProjects/source-code/spark-2.2.1/core
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.12.6
+derby.system.home=null
+Warning: The database is booted with derby.system.durability=test. In this mode, it is possible that database may not be able to recover, committed transactions may be lost, database may be in an inconsistent state. Please use this mode only when these consequences are acceptable  
+
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Apr 13 11:32:26 CST 2018:
+Shutting down instance a816c00e-0162-bd0f-b1b2-000009061160 on database directory /Users/zenmen/IdeaProjects/source-code/spark-2.2.1/core/target/JavaJdbcRDDSuiteDb with class loader sun.misc.Launcher$AppClassLoader@28d93b30 
